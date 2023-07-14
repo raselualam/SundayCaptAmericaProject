@@ -10,7 +10,6 @@ import java.io.File;
 
 public class PetstoreRestAssuredActions {
 	
-	//Changes for git new
 	
 	public void createPet(){
 		
@@ -85,4 +84,6 @@ public class PetstoreRestAssuredActions {
 					+ "/src/test/resource/ApiResponseSchemas/deletePetResponse.json")));
 		
 	}
+	
+	//git test branching
 }
